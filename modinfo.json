@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Apex_CureAll_Tonic",
+      "author": "Apex",
+      "version": "1.0",
+      "compatibility": "W125",
+      "description": "A craftable cure-all tonic, with a pill variant. Currently, however, it only cures the 4 major afflictions that the tonics cure: Bacterial, Infections, Parasitic, and Concussions.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/blob/main/Apex_CureAll_Tonic.EXMODZ"
+      }
+    }
+   ]
+ }
