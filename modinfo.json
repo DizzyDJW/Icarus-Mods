@@ -3,13 +3,37 @@
     {
       "name": "Apex_CureAll_Tonic",
       "author": "Apex",
-      "version": "1.0",
-      "compatibility": "W125",
+      "version": "1.0.2",
+      "compatibility": "W131",
       "description": "A craftable cure-all tonic, with a pill variant. Currently, however, it only cures the 4 major afflictions that the tonics cure: Bacterial, Infections, Parasitic, and Concussions.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/blob/main/Apex_CureAll_Tonic.EXMODZ"
+      }
+    },
+    {
+      "name": "Noxious_Crust_Icon_Fix",
+      "author": "Apex",
+      "version": "1.0",
+      "compatibility": "W131",
+      "description": "A fix for the all the types of Noxious Crust looking the same. Also, antipoison stops damage from Carrying Miasmic Items debuff",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/blob/main/Noxious_Crust_Icon_Fix.EXMODZ"
+      }
+    },
+    {
+      "name": "Super_Stick",
+      "author": "Apex",
+      "version": "2.0",
+      "compatibility": "W131",
+      "description": "A very powerful, craftable stick. Perfect to use while AFK. Now with a craftable module variant.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/blob/main/Super_Stick.EXMODZ"
       }
     }
    ]
