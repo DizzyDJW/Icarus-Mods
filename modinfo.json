@@ -47,6 +47,18 @@
       "files": {
           "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_More_Seeds.EXMODZ"
       }
+    },
+    {
+      "name": "Apex_Glutton",
+      "author": "Apex",
+      "version": "1.0.155",
+      "compatibility": "W155",
+      "description": "Craftable tonic and tea.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_Glutton.EXMODZ"
+      }
     }
    ]
  }
