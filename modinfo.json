@@ -1,31 +1,31 @@
 {
   "mods": [
     {
-      "name": "Apex_CureAll_Tonic",
+      "name": "Apex's CureAll Tonic",
       "author": "Apex",
       "version": "1.0.155",
       "compatibility": "W155",
       "description": "A craftable cure-all tonic, with a pill variant. Currently, however, it only cures the 4 major afflictions that the tonics cure: Bacterial, Infections, Parasitic, and Concussions.",
-      "imageURL": "",
+      "imageURL": "Apex_CureAll_Tonic.png",
       "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_CureAll_Tonic.EXMODZ"
       }
     },
     {
-      "name": "Noxious_Crust_Icon_Fix",
+      "name": "Noxious Crust Icon Fix",
       "author": "Apex",
       "version": "1.0.155",
       "compatibility": "W155",
       "description": "A fix for the all the types of Noxious Crust looking the same.",
-      "imageURL": "",
+      "imageURL": "Noxious_Crust_Icon_Fix.png",
       "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Noxious_Crust_Icon_Fix.EXMODZ"
       }
     },
     {
-      "name": "Super_Stick",
+      "name": "Super Stick",
       "author": "Apex",
       "version": "2.0.155",
       "compatibility": "W155",
@@ -37,27 +37,51 @@
       }
     },
     {
-      "name": "Apex_More_Seeds",
+      "name": "Apex's More Seeds",
       "author": "Apex",
       "version": "1.0.155",
       "compatibility": "W155",
       "description": "Processing Recipes for all seeds.",
-      "imageURL": "",
+      "imageURL": "Apex_More_Seeds.png",
       "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_More_Seeds.EXMODZ"
       }
     },
     {
-      "name": "Apex_Glutton",
+      "name": "Apex's Glutton",
       "author": "Apex",
       "version": "1.0.155",
       "compatibility": "W155",
       "description": "Craftable tonic and tea.",
-      "imageURL": "",
+      "imageURL": "Apex_Glutton.png",
       "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_Glutton.EXMODZ"
+      }
+    },
+    {
+      "name": "Apex's Beetopia",
+      "author": "Apex",
+      "version": "1.0.155",
+      "compatibility": "W155",
+      "description": "A huge overhaul for bees and bee-related things.",
+      "imageURL": "Apex_Beetopia.png",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_Beetopia.EXMODZ"
+      }
+    },
+    {
+      "name": "Apex's Miasmic Protection",
+      "author": "Apex",
+      "version": "1.0.155",
+      "compatibility": "W155",
+      "description": "An assortment of items used to protect the prospector from miasmic damage.",
+      "imageURL": "Apex_Miasmic_Protection.png",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/DizzyDJW/Icarus-Mods/raw/main/Apex_Miasmic_Protection.EXMODZ"
       }
     }
    ]
