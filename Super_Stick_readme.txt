@@ -35,6 +35,7 @@ Item Wear -100% (Armor still takes damage!)
 Fire Damage Resistance +250% (You can still be lit aflame, and armor still takes damage!)
 Cold Resistance +250% (There seems to be a limit, you can still become cold!)
 Heat Resistance +250% (There seems to be a limit, you can still become hot!)
+On-Character Crafting Speed +1500%
 
 NOW with craftable suit module variants!
 
@@ -42,3 +43,10 @@ Also, just for fun, Super Stick Animal Feed. Now you can give these same stats t
 (Warning! Duration of feed effect on mount lasts over 100 hours!)
 
 I purposefully did not add player invincibility to the stick, that's boring!
+
+New stuff in version 3.0:
+- Craftable Projectiles of the StoneJaw, Drifter, and Needler, with a new Spider Web thrown projectile!
+- Craftable Thor Hammer for flying around the map!
+- A Heavy Super Stick that ironically goes as fast as a bullet!
+- A crate, crafted from a stick, that gives you ALL Tier 4 Benches and some Solar Panels, Batteries, and supplies.
+- Concrete Building Supplies, crafted from a stick.
